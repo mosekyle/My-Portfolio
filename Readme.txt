@@ -33,7 +33,5 @@ I have conducted detailed data analysis using **Python** and **Tableau** on vari
 
 ## Contact
 Feel free to reach out to me for collaborations, projects, or inquiries!  
-- **Email:** gitaumoseskiarie@gmail.com  
-- **Phone:** +254703684505  
 - **LinkedIn:** [Moses Gitau](https://linkedin.com/in/moses-gitau-kiarie)  
 - **GitHub:** [Moses Gitau](https://github.com/mosekyle)
